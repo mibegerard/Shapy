@@ -1,1 +1,22 @@
+# Environment files
+
 .env
+
+# Wordpress Files
+
+# WordPress Plugin Directories:
+
+wordpress/wp-content/plugins/astra-sites/
+wordpress/wp-content/plugins/cartflows/
+wordpress/wp-content/plugins/checkout-plugins-stripe-woo/
+wordpress/wp-content/plugins/elementor/
+wordpress/wp-content/plugins/variation-swatches-woo/
+wordpress/wp-content/plugins/woocommerce/
+
+# WordPress Theme Directory:
+
+wordpress/wp-content/themes/astra/
+
+# WordPress Uploads Directory:
+
+wordpress/wp-content/uploads/
