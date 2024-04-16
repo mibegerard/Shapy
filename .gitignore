@@ -12,6 +12,9 @@ wordpress/wp-content/plugins/checkout-plugins-stripe-woo/
 wordpress/wp-content/plugins/elementor/
 wordpress/wp-content/plugins/variation-swatches-woo/
 wordpress/wp-content/plugins/woocommerce/
+wordpress/wp-admin
+wordpress/wp-content
+wordpress/wp-includes
 
 # WordPress Theme Directory:
 
