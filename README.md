@@ -1,6 +1,6 @@
 # Shapy
 
-# Shappy - Beauty with imperfections
+Shappy - Beauty with imperfections
 
 ## Description
 
